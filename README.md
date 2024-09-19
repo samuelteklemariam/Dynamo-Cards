@@ -66,7 +66,7 @@ cd gemini-dynamo
 
 ##### Contributing
 
-#####Contributions are welcome! Please follow these steps to contribute:
+##### Contributions are welcome! Please follow these steps to contribute:
 
 - Fork the repository.
 - Create a new branch:
@@ -78,6 +78,7 @@ cd gemini-dynamo
 - Open a pull request.
 Please make sure to update tests as appropriate.
 
-
+##### Demo
+https://www.loom.com/share/eedb2a5ebf9e4ff8b6bc20c49e5582c2?sid=02cd8420-377c-45d8-8211-d5ab5064159f
 
 
